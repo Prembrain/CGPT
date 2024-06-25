@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://cgptai.netlify.app/" target="_blank">
-      <img src="https://ibb.co/yFSV7v4" alt="Project Banner">
+      <img src="[https://ibb.co/yFSV7v4](https://ibb.co/yFSV7v4)" alt="Live Demo">
     </a>
   <br />
 
