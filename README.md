@@ -14,6 +14,8 @@
   <h3 align="center">Modern UI/UX website</h3>
 </div>
 
+👉 Live Demo: <a href='https://cgptai.netlify.app/' target="_blank">Live Demo</a>
+
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
