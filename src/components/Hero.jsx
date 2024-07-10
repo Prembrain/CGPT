@@ -39,7 +39,7 @@ export default function Hero(){
                 Unleash the power of AI within Cgpt. Upgrade your productivity
                 with Cgpt, the open AI chat app.
               </p>
-              <Button href="/pricing" white>
+              <Button href="#pricing" white>
                 Get started
               </Button>
             </div>

@@ -68,12 +68,12 @@ export default function Header(){
                 </nav>
                 
                 <a 
-                    href="#sign"
+                    href="/"
                     className='button hidden mr-8 text-n-1/50 transition-colors  hover:text-n-1 lg:block'
                 >
                     New account
                 </a>
-                <Button className= "hidden lg:flex" href='#login'>
+                <Button className= "hidden lg:flex" href='/'>
                     Sign in
                 </Button>
                 <Button 

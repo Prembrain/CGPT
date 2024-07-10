@@ -29,7 +29,7 @@ export default function PricingList(){
 
                     <Button
                         className='w-full mb-6'
-                        href={item.price ? '/pricing' : "mailto:prempreecha.n@gamail.com"}
+                        href={item.price ? '#pricing' : "mailto:prempreecha.n@gamail.com"}
                         white={!!item.price}
                     >   
                         {item.price ? "Get started" : "Contact us"}

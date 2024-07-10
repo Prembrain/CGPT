@@ -7,7 +7,7 @@ import {LeftCurve, RightCurve} from "./design/Collaboration"
 
 export default function Collaburation(){
     return(
-        <Section crosses >
+        <Section crosses id={"collaboration"}>
             <div className=" container lg:flex"> 
                 <div className="max-w-[25rem]">
                     <h2 className='h2 mb-4 md:mb-8'>
@@ -37,7 +37,7 @@ export default function Collaburation(){
                         ))}
                     </ul>
                     
-                    <Button>Try it now</Button>
+                    <Button href={"#collaboration"}>Try it now</Button>
                 </div>
 
                 <div className="lg:ml-auto xl:w-[38rem] mt-4">
